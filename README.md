@@ -1,6 +1,6 @@
 # Rain-Prediction-in-Australia
 
-#Introduction
+# Introduction
 Global warming affects the ecosystem and the human communities across the globe are losing
 natural resources and cultural significance. Australia is one of the worst-hit countries that is
 experiencing high temperatures, rising sea levels, coral bleaching in The Great Barrier Reef and
