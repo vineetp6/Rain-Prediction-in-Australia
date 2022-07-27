@@ -41,7 +41,6 @@ variable. Below is the list of features and their descriptions:
 21.Temp3pm: -Temperature (degree celsius) at 3pm
 22.Rain Today: -Did, did it rain today?
 23.Rain Tomorrow: -Target variable (Did it rain Tomorrow?)
-
 #  Proposed Analytics Solution
 1. Gathering data: For the project, we looked at a variety of online data sources before settling on a
 Kaggle dataset with many of the features mentioned above for rainfall prediction.
@@ -53,7 +52,6 @@ different approaches suitable for the issue (such as imputation for missing valu
 transformation for outliers).
 4. Feature Selection: Selecting the features and implementing dimensionality reduction using Chi
 square test, PCA and Recursive Feature Elimination methods.
-
 # CONCLUSION
 In conclusion, we have used Multiple classification machine learning models to predict the rain in
 Australia. We have performed all the pre-processing steps -Normalization, Transformations, Handled
