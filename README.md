@@ -27,20 +27,21 @@ variable. Below is the list of features and their descriptions:
 7. Sunshine: -The number of hours of sunshine in the day
 8. WindGustDir: -The direction of the wind gust
 9. WindGustSpeed: -The speed of the wind gust
-10.WindDir9am: -Direction of wind at 9am
-11.WindDir3pm: -Direction of wind at 3 pm
-12.WindSpeed9am: -Wind speed at 9am(km/hr)
-13.WindSpeed3pm: -Wind speed at 3pm(km/hr)
-14.Humidity9am: -Humidity at 9 am
-15.Humidity3pm: -Humidity at 3 pm
-16.Pressure9am: -Atmospheric pressure at 9 am
-17.Pressure3pm: -Atmospheric pressure at 3 pm
-18.Cloud9am: - Fraction of sky obscured by cloud at 9 am
-19.Cloud3pm: - Fraction of sky obscured by cloud at 3 pm
-20.Temp9am: - Temperature (degree celsius) at 9 am
-21.Temp3pm: -Temperature (degree celsius) at 3pm
-22.Rain Today: -Did, did it rain today?
-23.Rain Tomorrow: -Target variable (Did it rain Tomorrow?)
+
+11.WindDir9am: -Direction of wind at 9am
+12.WindDir3pm: -Direction of wind at 3 pm
+13.WindSpeed9am: -Wind speed at 9am(km/hr)
+14.WindSpeed3pm: -Wind speed at 3pm(km/hr)
+15.Humidity9am: -Humidity at 9 am
+16.Humidity3pm: -Humidity at 3 pm
+17.Pressure9am: -Atmospheric pressure at 9 am
+18.Pressure3pm: -Atmospheric pressure at 3 pm
+19.Cloud9am: - Fraction of sky obscured by cloud at 9 am
+20.Cloud3pm: - Fraction of sky obscured by cloud at 3 pm
+21.Temp9am: - Temperature (degree celsius) at 9 am
+22.Temp3pm: -Temperature (degree celsius) at 3pm
+23.Rain Today: -Did, did it rain today?
+24.Rain Tomorrow: -Target variable (Did it rain Tomorrow?)
 #  Proposed Analytics Solution
 1. Gathering data: For the project, we looked at a variety of online data sources before settling on a
 Kaggle dataset with many of the features mentioned above for rainfall prediction.
